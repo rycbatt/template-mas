@@ -15,6 +15,9 @@ mas main {
       focus: w.c1 
     }
 
+    agent ar_condicionado: ac.asl
+
+
     workspace w {
       artifact c1: example.Counter(3) 
     }
